@@ -1,7 +1,8 @@
 #!/bin/bash
-
+ 
 # API Connection Script with Table Formatting
 # Connects to OEM Manager API and displays results in a formatted table
+# Lists all MS-Agents with their agentId's, PID's, and state for a given ABL Application, including each MS-Agent's session metrics
 
 # Configuration
 HOST="10.1.11.22"
